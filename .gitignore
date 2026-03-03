@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# Visual Studio / .NET
+.vs/
+bin/
+obj/
+
+# Rider
+.idea/
+
+# User-specific files
+*.user
+*.suo
+
+# Logs
+*.log
